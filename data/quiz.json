@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Over the last 2 weeks, how often have you felt little interest or pleasure in doing things?",
+    "options": ["Not at all","Several days","More than half the days","Nearly every day"],
+    "scores": [0,1,2,3]
+  },
+  {
+    "question": "Over the last 2 weeks, how often have you felt down, depressed, or hopeless?",
+    "options": ["Not at all","Several days","More than half the days","Nearly every day"],
+    "scores": [0,1,2,3]
+  }
+]
